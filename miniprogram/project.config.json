@@ -1,0 +1,50 @@
+{
+	"appid": "wx0ba7981861be3afc",
+	"compileType": "miniprogram",
+	"libVersion": "3.7.7",
+	"packOptions": {
+		"ignore": [
+			{
+				"value": "static/swiper",
+				"type": "folder"
+			}
+		],
+		"include": []
+	},
+	"setting": {
+		"coverView": true,
+		"es6": true,
+		"postcss": true,
+		"minified": true,
+		"enhance": true,
+		"showShadowRootInWxmlPanel": true,
+		"packNpmRelationList": [],
+		"babelSetting": {
+			"ignore": [],
+			"disablePlugins": [],
+			"outputPath": ""
+		},
+		"compileWorklet": false,
+		"uglifyFileName": false,
+		"uploadWithSourceMap": true,
+		"packNpmManually": false,
+		"minifyWXSS": true,
+		"minifyWXML": true,
+		"localPlugins": false,
+		"disableUseStrict": false,
+		"useCompilerPlugins": false,
+		"condition": true,
+		"swc": false,
+		"disableSWC": true
+	},
+	"condition": {},
+	"editorSetting": {
+		"tabIndent": "tab",
+		"tabSize": 4
+	},
+	"projectname": "Misaka 学习 开源版",
+	"simulatorPluginLibVersion": {
+		"wxext14566970e7e9f62": "3.6.5-34"
+	},
+	"projectArchitecture": "multiPlatform"
+}
